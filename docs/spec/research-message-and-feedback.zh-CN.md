@@ -37,16 +37,6 @@ title: 消息与反馈
 
 在不跳转页面打断用户工作流程的前提下，告知用户重要的成功结果。
 
-####
-
-<ImagePreview>
-<img class="preview-img no-padding" src="https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*NPVGQr6f5-4AAAAAAAAAAABkARQnAQ">
-</ImagePreview>
-
-**全局提示 Message**
-
-在不希望在用户执行操作时中断用户前提下显示一条简短的成功消息。
-
 #### 跳转
 
 <ImagePreview>
